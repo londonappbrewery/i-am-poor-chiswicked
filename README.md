@@ -1,11 +1,7 @@
 # I-Am-Poor
-Learn to make iOS Apps 📱 | Project Stub | (Swift 3.0/Xcode 8) - Flash Chat App
-
-Download the starter project files as .zip and extract the files to your desktop. 
+Learn to make iOS Apps 📱 | Project Submission | (Swift 3.0/Xcode 8) - I Am Poor App
 
 ## Finished App
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/I%20Am%20Poor.png)
+![Finished App](https://github.com/londonappbrewery/i-am-poor-chiswicked/blob/master/ScreenShotIAmPoor.png)
 
-
-
-Copyright 2016 London App Brewery
+Norbert Metz
